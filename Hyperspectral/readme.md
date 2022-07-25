@@ -1,1 +1,1 @@
-These are the codes for the our journal paper in Automation For Construction 
+These are the codes for  our journal paper in Automation For Construction 
